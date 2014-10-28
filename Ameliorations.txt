@@ -1,0 +1,10 @@
+Un menu : 
+	Jouer
+	Règles
+	Meilleurs Scores
+
+Une musique 
+
+Une petite animation au début
+
+Sauvegarde des scores dans un fichier texte à côté afin de sauvegarder dans le temps, et pas uniquement sur la session. 
