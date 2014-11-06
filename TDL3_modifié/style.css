@@ -1,0 +1,42 @@
+#header{
+  font-size: 100px;
+  color: white;
+  background-color: black;
+  text-align:center;
+  margin-bottom: 10px;
+}
+
+#road{
+  background-color: white;
+  position: absolute;
+  left: 50%;
+  width: 600px;
+  height: 600px;
+  margin-left: -400px;  
+}
+
+#points{
+  float:right;
+  font-size: 28px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+}
+
+.car{
+  position: absolute;
+  width:50px;
+}
+
+#gameover{
+  text-align:center;
+  font-size: 100px;
+  margin-top: 200px;
+  color: red;
+}
+
+#retry{
+  text-align:center;
+  font-size: 50px;
+  color: green;
+}
